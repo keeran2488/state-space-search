@@ -1,2 +1,2 @@
 # state-space-search
-Implementation of State space search algorithmns in python.
+Implementation of State space search algorithms in python.
